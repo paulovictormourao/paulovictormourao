@@ -1,8 +1,12 @@
 ## Projects And Studies:
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=paulovictormourao&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" height="180px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictormourao&layout=compact&langs_count=7&theme=monokai" height="180px">
-</div>
+
+    
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=paulovictormourao&show_icons=true&hide_border=true&theme=monokai)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulovictormourao&layout=compact&langs_count=8&hide_border=true&theme=monokai)
+
+<br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulovictormourao&theme=monokai)
+
+
